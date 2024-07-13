@@ -1,0 +1,30 @@
+/Users/ashish/Desktop/Repos/TIL/C#/C#/bin/Debug/net7.0/C#
+/Users/ashish/Desktop/Repos/TIL/C#/C#/bin/Debug/net7.0/C#.deps.json
+/Users/ashish/Desktop/Repos/TIL/C#/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/ashish/Desktop/Repos/TIL/C#/C#/bin/Debug/net7.0/C#.dll
+/Users/ashish/Desktop/Repos/TIL/C#/C#/bin/Debug/net7.0/C#.pdb
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.dll
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.pdb
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/ashish/Desktop/Repos/TIL/C#/C#/obj/Debug/net7.0/ref/C#.dll
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/bin/Debug/net7.0/C#
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/bin/Debug/net7.0/C#.deps.json
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/bin/Debug/net7.0/C#.dll
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/bin/Debug/net7.0/C#.pdb
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.dll
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.pdb
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/ashish/Desktop/Repos/TIL/.NET Code/C#/obj/Debug/net7.0/ref/C#.dll
